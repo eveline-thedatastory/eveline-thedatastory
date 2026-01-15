@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 In this account, I'm working on data projects for The Data Story.
+
 🤸 Projects can range from data engineering, data analysis to data science.
